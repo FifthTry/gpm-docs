@@ -8,9 +8,15 @@ base: https://raw.githubusercontent.com/fifthtry/gpm-docs/main
 
 -- fpm.auto-import: ds
 
+-- fpm.sitemap:
 
-# GPM : /
-
-## APIs: /
+# GPM: /
 
 - Get Current Tasks: /get-current-tasks/
+- Get Task FTD: /get-task-ftd/
+
+# Development: /dev/
+
+- How To Do Project Setup: /dev/project-setup/
+- How To Do Local Setup: /dev/local-setup/
+- How To Deploy: /dev/heroku-deployment/

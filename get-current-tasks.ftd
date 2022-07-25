@@ -4,18 +4,18 @@ This API fetch the information from GitHub project about current sprint. A
 GitHub project can have multiple issues listed, in this API we fetch individual
 issue statuses and their tracking from attached PR(s).
 
--- ft.h1: API Input
+-- ds.h1: API Input
 
--- ft.h2: `token`
+-- ds.h2: `token`
 
 API security token, that only known people can call this API or to it prevent
 from calling unauthorized people.
 
 
--- ft.h1: API Output
+-- ds.h1: API Output
 
 
--- ft.code:
+-- ds.code:
 lang: ftd
 
 \-- record output:
