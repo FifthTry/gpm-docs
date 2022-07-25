@@ -1,0 +1,15 @@
+-- ds.page: `get-task-ftd` API
+
+This API take a `task_id` as parameter and generates `task.ftd` file.
+
+-- ds.h1: API Input
+
+-- ds.h2: `task_id`
+
+
+-- ds.h2: `token`
+
+
+-- ds.h1: API Output
+
+This returns [`task`](/get-current-tasks/) string as output.
