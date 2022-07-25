@@ -12,3 +12,7 @@ it into a `json` file.
 `next` Url, where this API redirects.
 
 -- ds.h2: `token`
+
+-- ds.h1: API Output
+
+No Output to this API
