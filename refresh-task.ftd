@@ -1,0 +1,14 @@
+-- ds.page: `refresh-task` API
+
+This API refresh task data from GitHub. This API fetch data from GitHub and save
+it into a `json` file.
+
+-- ds.h1: API Input:
+
+-- ds.h2: `task_id`
+
+-- ds.h2: `next`
+
+`next` Url, where this API redirects.
+
+-- ds.h2: `token`

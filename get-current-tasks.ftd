@@ -31,7 +31,7 @@ optional body description:
 pr list linked-prs:
 string list labels:
 repo repo:
-
+string fetched-on:
 
 \-- record pr:
 string title:

@@ -14,6 +14,7 @@ base: https://raw.githubusercontent.com/fifthtry/gpm-docs/main
 
 - Get Current Tasks: /get-current-tasks/
 - Get Task FTD: /get-task-ftd/
+- Refresh Task: /refresh-task/
 
 # Development: /dev/
 
